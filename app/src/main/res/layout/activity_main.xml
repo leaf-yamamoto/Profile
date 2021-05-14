@@ -50,7 +50,7 @@
 
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
@@ -82,7 +82,7 @@
                 android:layout_height="match_parent"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00B4DC"
+                android:backgroundTint="#969696"
                 android:text="スポーツ"
                 android:textColor="#FFFFFF"
                 android:textSize="16dp" />
@@ -99,7 +99,7 @@
                 android:layout_height="match_parent"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00B4DC"
+                android:backgroundTint="#969696"
                 android:text="好きな食べ物"
                 android:textColor="#FFFFFF"
                 android:textSize="16dp" />
@@ -110,7 +110,7 @@
                 android:layout_height="match_parent"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="#00B4DC"
+                android:backgroundTint="#969696"
                 android:text="趣味"
                 android:textColor="#FFFFFF"
                 android:textSize="16dp" />
